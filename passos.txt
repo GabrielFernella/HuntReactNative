@@ -1,0 +1,14 @@
+1 - Configurar ambiente de desenvolvimento para React native nesse Link: https://docs.rocketseat.dev/ambiente-react-native/android/windows
+2 - react-native init hunt (Criar Projeto com o nome de hunt)
+3 - adb connect IP_DO_SEU_EMULADOR:5555 (para conectar o Device VM)
+4 - adb devices (ver se o Device está disponivel)
+5 - react-native run-android (só na primeira vez) (Abrir pelo CMD ou power)
+7 - react-native start (para executar o projeto(quando o Projeto já tiver startato pelo menos uma unica vez)
+8 - yarn add react-navigation (@2.18.3 versão abordada no curso)
+9 - yarn add axios (para fazer a conexão com api externas)
+10 - 
+11 - 
+12 -
+13 - 
+14 - 
+15 - 
